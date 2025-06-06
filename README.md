@@ -1,4 +1,4 @@
-#⚽ FFA - Football Fixture Association
+# ⚽ FFA - Football Fixture Association
 🛒 Football Merchandise Shop + 📊 Stats & Analysis System
 Tech Stack: PHP, MySQL, HTML5, CSS3
 
